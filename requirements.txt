@@ -15,6 +15,9 @@ langchain-anthropic
 langchain-google-genai
 google-generativeai
 
+# Nvidia NeMo Integration
+langchain-nvidia-ai-endpoints
+
 
 # Hugging Face Integration
 langchain-huggingface

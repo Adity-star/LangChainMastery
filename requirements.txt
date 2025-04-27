@@ -34,3 +34,6 @@ scikit-learn
 #Api
 fastapi
 uvicorn
+
+# Vector Store
+langchain-chroma

@@ -33,3 +33,32 @@ In the following example, you'll learn how to use OpenAI’s models with LangCha
 
 🔍 **Explore the code example here:**  
 👉 [LLM Example with OpenAI (`llm_model.py`)](https://github.com/Adity-star/LangChainMastery/blob/main/LLMs/llm_model.py)
+
+---
+### 🧠 Task for You: Build Your Own Text Generator
+
+Now that you've seen how to integrate an OpenAI LLM using LangChain, try building your own text generation script.
+
+**✅ Your Task:**
+- Create a Python script that takes user input from the command line.
+- Pass the input to an OpenAI model using LangChain.
+- Return a generated response.
+- Customize the behavior using at least **one** model parameter (e.g., temperature, max tokens, or model name).
+
+💡 *Bonus:* Try using a `PromptTemplate` to frame the input before sending it to the model.
+
+🛠 Save your work as `my_text_generator.py` in the `LLMs` folder.
+
+
+🎯 **Goal:** Build confidence by working directly with LangChain's LLM interface and prompt templating system.
+
+🔥 **Challenge Yourself:** Try using the `ChatOpenAI` class instead of the standard `OpenAI` class and notice the differences!
+
+
+---
+### 🧩 Need a Little Help?
+
+Here’s a sample solution you can reference or build upon:  
+📂 [Sample: `my_text_generator.py`](https://github.com/Adity-star/LangChainMastery/blob/main/LLMs/my_text_generator.py)
+
+Happy building! 🚀

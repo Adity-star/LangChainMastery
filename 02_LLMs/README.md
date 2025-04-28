@@ -32,7 +32,7 @@ LangChain wraps each LLM behind a common interface, allowing you to:
 In the following example, you'll learn how to use OpenAI’s models with LangChain. You'll configure the model, pass prompts, and receive completions using LangChain’s built-in wrappers.
 
 🔍 **Explore the code example here:**  
-👉 [LLM Example with OpenAI (`llm_model.py`)](https://github.com/Adity-star/LangChainMastery/blob/main/LLMs/llm_model.py)
+👉 [LLM Example with OpenAI (`llm_model.py`)](https://github.com/Adity-star/LangChainMastery/blob/main/02_LLMs/llm_model.py)
 
 ---
 ### 🧠 Task for You: Build Your Own Text Generator
@@ -59,6 +59,14 @@ Now that you've seen how to integrate an OpenAI LLM using LangChain, try buildin
 ### 🧩 Need a Little Help?
 
 Here’s a sample solution you can reference or build upon:  
-📂 [Sample: `my_text_generator.py`](https://github.com/Adity-star/LangChainMastery/blob/main/LLMs/my_text_generator.py)
+📂 [Sample: `my_text_generator.py`](https://github.com/Adity-star/LangChainMastery/blob/main/02_LLMs/my_text_generator.py)
 
-Happy building! 🚀
+---
+### 🚀 **Next Steps**
+
+Congratulations on getting hands-on with LangChain’s LLM interface! 🎉 Now that you’ve successfully built a text generator, you’re ready to tackle even more complex use cases with LangChain. 
+
+In the next module, we’ll dive deeper into **Output Parsers** for more powerful AI applications.
+
+Ready for more? Let’s go to [**Module 03: Prompt Engineering**!](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers)
+

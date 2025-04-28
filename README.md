@@ -23,3 +23,15 @@ Start your LangChain journey with these foundational topics, designed to help yo
 3. 🧠 **Enhance Chatbot with Prompt Engineering**  
    Understand how to guide LLM behavior by designing effective prompts:
    - ✨ [Chatbot with Prompt (prompt.py)](https://github.com/Adity-star/LangChainMastery/blob/main/prompt.py)
+---
+
+# ⚙️ LangChain Components
+
+LangChain is modular by design. These components can be combined in different ways to build sophisticated LLM-powered workflows. Here's a breakdown of the key components you'll explore:
+
+1. LLMs (Large Language Models)
+
+   Integrate models like OpenAI, Hugging Face, Cohere, and others.
+
+    🔗 [Simple LLms Using OpenAI](https://github.com/Adity-star/LangChainMastery/tree/main/LLMs)
+

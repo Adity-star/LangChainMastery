@@ -99,6 +99,6 @@ Task:
 ## 1.7 🔮 What’s Next?
 Great job on completing the first module! You’ve learned how to set up LangChain and run your first application. 🎉
 
-In the next module, we’ll dive deeper into [LLMs (Large Language Models)](https://github.com/Adity-star/LangChainMastery/tree/main/LLMs). You’ll learn how to handle more complex prompts, customize responses, and begin building advanced applications with LangChain.
+In the next module, we’ll dive deeper into LLMs (Large Language Models. You’ll learn how to use LLms in langchain.
 
-Ready to level up? Let’s move on to Module 02: Working with LLMs!
+Ready to level up? Let’s move on to [Module 02: Working with LLMs!](https://github.com/Adity-star/LangChainMastery/tree/main/02_LLMs)

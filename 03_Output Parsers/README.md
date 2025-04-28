@@ -182,9 +182,9 @@ They are especially useful when chaining steps or connecting to APIs, tools, or 
 Congratulations on completing Module 03! 🎉
 You’ve now learned how to use **Output Parsers** to structure and clean the raw responses from LLMs, making them more usable for your applications.
 
-In the next module, [**Module 04: Chains**](https://github.com/Adity-star/LangChainMastery/tree/main/04_Chains), You’ll dive into the power of **chains** — combining multiple tools, steps, and models into coherent workflows to solve more complex tasks.
+In the next module, You’ll dive into the power of **chains** — combining multiple tools, steps, and models into coherent workflows to solve more complex tasks.
 
-Get ready to **write smarter prompts** and **level up your control** over LLM behavior! 🚀
+Ready to dive deeper? Let's go to [**Module 04: Chains**](https://github.com/Adity-star/LangChainMastery/tree/main/04_Chains)
 
 
 

@@ -10,7 +10,7 @@ Welcome to **LangChain Mastery** – a curated, hands-on repository to help you 
 
 Start your LangChain journey with these foundational topics, designed to help you understand core concepts through hands-on examples.
 
-1. 📖 [**Intro to LangChain**](https://github.com/Adity-star/LangChainMastery/blob/main/Langchain_intro.ipynb)  
+1. 📖 [**Intro to LangChain**](https://github.com/Adity-star/LangChainMastery/tree/main/01_Intro)  
    A beginner-friendly introduction explaining:
    - What LangChain is  
    - Why it’s useful for building with LLMs  
@@ -39,7 +39,7 @@ LangChain is modular by design. These components can be combined in different wa
 
 | Module | Topic | Description |
 |--------|-------|-------------|
-| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/Intro) | What is LangChain, how it works, and how to set it up |
+| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/01_Intro) | What is LangChain, how it works, and how to set it up |
 | 02 | [Using LLMs](./02_LLMs/) | How to use OpenAI and Hugging Face models with LangChain |
 | 03 | [Prompt Engineering](./03_Prompts/) | Design powerful prompts with templates and few-shot examples |
 | 04 | [Chains](./04_Chains/) | Combine LLM calls into multi-step logic |

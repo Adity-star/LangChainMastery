@@ -68,5 +68,5 @@ Congratulations on getting hands-on with LangChain’s LLM interface! 🎉 Now t
 
 In the next module, we’ll dive deeper into **Output Parsers** for more powerful AI applications.
 
-Ready for more? Let’s go to [**Module 03: Prompt Engineering**!](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers)
+Ready for more? Let’s go to [**Module 03: OutPut Parsers**!](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers)
 

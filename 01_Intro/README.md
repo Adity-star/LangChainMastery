@@ -65,7 +65,7 @@ Now, let’s jump into coding! We’ll start with a simple "Hello World" example
 ### Step 1: Explore the LangChain Intro Notebook
 Before jumping into the code, take a moment to explore the [LangChain Intro Notebook](https://github.com/Adity-star/LangChainMastery/blob/main/Intro/Langchain_intro.ipynb). This will help you understand the core concepts and components of LangChain, which will be useful as you proceed with your coding exercises.
 ### Step 2: Create a File Called `hello_world.py`
-Next, create a file named [`hello_world.py`](https://github.com/Adity-star/LangChainMastery/blob/main/Intro/hello_world.py) and add the code to interact with the OpenAI model.
+Next, create a file named [`hello_world.py`](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/hello_world.py) and add the code to interact with the OpenAI model.
 
 ---
 

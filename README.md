@@ -42,41 +42,42 @@ Start your LangChain journey with these foundational topics, designed to help yo
    - Why it’s useful for building with LLMs  
    - How to set up and run your first LangChain application
 
-2. 🤖 **Build Your First Chatbot**  
-   Learn how to create a simple chatbot using LangChain and HuggingFace:
-   - 📝 [Basic Chatbot (chatbot.py)](https://github.com/Adity-star/LangChainMastery/blob/main/chatbot.py)
+> 🤖 **Build Your First Chatbot**  
+>  - LangChain + HuggingFace to build a basic conversational agent. 
+>  - Basic logic to handle input and LLM response.
+>  - 📝 [Basic Chatbot (chatbot.py)](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/chatbot.py)
 
-3. 🧠 **Enhance Chatbot with Prompt Engineering**  
-   Understand how to guide LLM behavior by designing effective prompts:
-   - ✨ [Chatbot with Prompt (prompt.py)](https://github.com/Adity-star/LangChainMastery/blob/main/prompt.py)
+> 🧠 **Enhance Chatbot with Prompt Engineering**  
+> - Controlling LLM behavior via carefully designed prompts.
+> - How different phrasing influences the model’s responses.
+> - ✨ [Chatbot with Prompt (prompt.py)](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/prompt.py)
+
+---
+
+2. [LLMs (Large Language Models)](https://github.com/Adity-star/LangChainMastery/tree/main/02_LLMs)
+
+Learn how to connect LangChain with popular LLM providers, including:
+- OpenAI
+- Hugging Face
+-Cohere
+- And more!
+Discover how to leverage these models within LangChain workflows to generate and manipulate text intelligently.
+> 🔗 Simple LLMs with OpenAI.
+> A practical example showing how to use OpenAI's models with LangChain.
+> 📄 [Explore the Example](https://github.com/Adity-star/LangChainMastery/blob/main/02_LLMs/llm_model.py)
+
+---
+
+3. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers)
+   
+Learn how to extract structured data from raw LLM outputs using output parsers. This module covers:
+- Why output parsing is important
+- Different parser types in LangChain
+- How to convert free-form text into usable formats like JSON or lists
+> 🧪 Practical Parsing Examples
+> See how to use built-in parsers to format and structure model outputs effectively:
+> 📄 [Explore Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers#-module-03-output-parsers-in-langchain)
 
 
-1. LLMs (Large Language Models)
+---
 
-   Integrate models like OpenAI, Hugging Face, Cohere, and others.
-
-    🔗 [Simple LLms Using OpenAI](https://github.com/Adity-star/LangChainMastery/tree/main/LLMs)
-
-Prompts
-Templates to guide model outputs. Create reusable and dynamic prompt templates.
-🔗 Prompt Templates in Action
-
-Chains
-Chain together multiple components (e.g., LLM calls, tools, memory) into workflows.
-🔗 Simple and Sequential Chains
-
-Memory
-Add state to your applications so they can remember past interactions.
-🔗 Implementing Memory
-
-Agents
-Enable dynamic decision-making. Agents choose which actions to take based on user input.
-🔗 LangChain Agents Example
-
-Tools
-Extend agents with capabilities like search, calculations, and API calls.
-🔗 Using Tools with Agents
-
-Retrievers and Vector Stores
-Retrieve relevant documents from large datasets using embeddings.
-🔗 Vector Search with FAISS

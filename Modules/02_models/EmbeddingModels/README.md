@@ -196,7 +196,7 @@ Find duplicate or near-duplicate content by checking similarity between embeddin
 - Choose between cloud and local embedding options
 
 ---
-⏭️ Next Step
+### ⏭️ Next Step
 Now that you know how to embed and retrieve meaning, continue to Module 03 – Prompts and learn how to control model behavior using prompt engineering.
 
 Ready for Next Module? Let's go [**Module 03: Prompts**](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts)

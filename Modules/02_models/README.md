@@ -112,5 +112,5 @@ This section explains the concept of embeddings, how they transform text into ve
 In this module, you've learned how to work with LLMs, Chat Models, and Embedding Models in LangChain. 
 Now that you have a solid foundation, it's time to dive deeper and learn how to fine-tune model behavior using effective prompts.
 
-Ready to dive deeper? Head over to [Module 03 – Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts)
+Ready to dive deeper? Head over to [**Module 03 – Prompts**](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts)
 

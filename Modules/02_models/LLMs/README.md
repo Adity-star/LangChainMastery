@@ -19,11 +19,11 @@ LangChain integrates smoothly with several major LLM platforms, including:
 
 LangChain wraps each LLM behind a common interface, allowing you to:
 
-- ✅ Generate responses based on natural language prompts  
-- 🧠 Combine models with memory to hold conversational context  
-- 🧩 Use prompt templates for better control over responses  
-- 🔗 Chain outputs across multiple steps in a workflow  
-- 🤖 Power agents that can use tools, browse, or query databases
+-  Generate responses based on natural language prompts  
+-  Combine models with memory to hold conversational context  
+-  Use prompt templates for better control over responses  
+-  Chain outputs across multiple steps in a workflow  
+-  Power agents that can use tools, browse, or query databases
 ---
   
 

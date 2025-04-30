@@ -17,18 +17,18 @@ LangChain is modular by design. These components can be combined in different wa
 
 | Module | Topic | Description |
 |--------|-------|-------------|
-| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/01_Intro) | What is LangChain, how it works, and how to set it up |
-| 02 | [Using LLMs](./02_LLMs/) | How to use OpenAI and Hugging Face models with LangChain |
-| 03 | [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers) | Parse and structure outputs from LLMs for better usability |
-| 04 | [Chains](./04_Chains/) | Combine LLM calls into multi-step logic |
-| 05 | [Memory](./05_Memory/) | Make your AI remember context in a conversation |
-| 06 | [Agents & Tools](./06_Agents_Tools/) | Let AI decide what action to take, and use external tools |
-| 07 | [ChatModels](./07_ChatModels/) | Advanced interaction with LLMs like GPT-4 (chat-based models) |
-| 08 | [Embedding Models](./08_EmbeddingModels/) | Use embeddings for semantic search and similarity tasks |
-| 09 | [Retrievers & Text Splitters](./09_Retrievers_Splitters/) | Split large texts and use retrievers for efficient querying |
-| 10 | [Retrieval-Augmented Generation (RAG)](./10_RAG/) | Combine retrieval with generation to answer queries from documents |
-| 11 | [Prompt Engineering](./11_Prompts/) | Design powerful prompts with templates and few-shot examples|
-| 12 | [Final Projects](./12_Projects/) | Build a chatbot, PDF Q&A bot, or AI assistant with real use cases |
+| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/01_Intro) | What is LangChain, how it works, and how to set it up |
+| 02 | [Using Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models) | How to use OpenAI and Hugging Face models with LangChain |
+| 03 | [Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_Prompts) | Using prompting in LangChain effectively |
+| 04 | [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers) | Parse and structure outputs from LLMs for better usability |
+| 05 | [Chains](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains) | Combine LLM calls into multi-step logic |
+| 06 | [Runnables](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/06_Runnables) | Build modular and composable components with LangChain's Runnable interfaces |
+| 07 | [Document Loaders](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/07_Document%20Loaders) | Load and process various types of documents for use in chains |
+| 08 | [Text Splitters](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Text%20Splitters) | Split large text into manageable chunks for better processing |
+| 09 | [Retrievers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/09_Retrivers) | Use embeddings and retrievers for semantic search and retrieval |
+| 10 | [Retrieval-Augmented Generation (RAG)](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG) | Combine retrieval with generation to answer queries from documents |
+| 11 | [Final Projects](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/11_Projects) | Build a chatbot, PDF Q&A bot, or AI assistant with real use cases |
+
 
 
 ---
@@ -36,7 +36,7 @@ LangChain is modular by design. These components can be combined in different wa
 
 Start your LangChain journey with these foundational topics, designed to help you understand core concepts through hands-on examples.
 
-1. 📖 [**Intro to LangChain**](https://github.com/Adity-star/LangChainMastery/tree/main/01_Intro)  
+1. 📖 [**Intro to LangChain**](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/01_Intro)  
    A beginner-friendly introduction explaining:
    - What LangChain is  
    - Why it’s useful for building with LLMs  
@@ -45,30 +45,45 @@ Start your LangChain journey with these foundational topics, designed to help yo
 > 🤖 **Build Your First Chatbot**  
 >  - LangChain + HuggingFace to build a basic conversational agent. 
 >  - Basic logic to handle input and LLM response.
->  - 📝 [Basic Chatbot (chatbot.py)](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/chatbot.py)
+>  - 📝 [Basic Chatbot (chatbot.py)](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/chatbot.py)
 
 > 🧠 **Enhance Chatbot with Prompt Engineering**  
 > - Controlling LLM behavior via carefully designed prompts.
 > - How different phrasing influences the model’s responses.
-> - ✨ [Chatbot with Prompt (prompt.py)](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/prompt.py)
+> - ✨ [Chatbot with Prompt (prompt.py)](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/prompt.py)
 
 ---
 
-2. [LLMs (Large Language Models)](https://github.com/Adity-star/LangChainMastery/tree/main/02_LLMs)
+2. [Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models)
 
-Learn how to connect LangChain with popular LLM providers, including:
-- OpenAI
-- Hugging Face
--Cohere
-- And more!
-Discover how to leverage these models within LangChain workflows to generate and manipulate text intelligently.
-> 🔗 Simple LLMs with OpenAI.
-> A practical example showing how to use OpenAI's models with LangChain.
-> 📄 [Explore the Example](https://github.com/Adity-star/LangChainMastery/blob/main/02_LLMs/llm_model.py)
+Learn how to connect LangChain with popular model providers and use different types of models in your applications:
 
+#### 🔤 LLMs (Large Language Models)
+Use text generation models to complete tasks like answering questions, summarizing, or generating content.
+- Providers: OpenAI, Hugging Face, Cohere, and more  
+- Learn how to integrate and configure these models in LangChain
+
+> 🔗 **Simple LLM with OpenAI**  
+> A practical example showing how to use OpenAI's models with LangChain.  
+> 📄 [View Code: `llm_model.py`](https://github.com/Adity-star/LangChainMastery/blob/main/02_LLMs/llm_model.py)
+
+
+#### 💬 [Chat Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models/ChatModels)
+Designed for conversational use cases (like ChatGPT), these models allow message-based interactions.
+- Handle structured dialogues with roles (`user`, `assistant`, etc.)
+- Use tools like `ChatOpenAI` for better control and reliability
+
+
+#### 🧠 [Embedding Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models/EmbeddingModels)
+Convert text into high-dimensional vectors for tasks like:
+- Semantic search
+- Similarity comparison
+- Retrieval-augmented generation (RAG)
+
+> 🔍 Power your retrievers with vector embeddings for smarter, context-aware applications.
 ---
 
-3. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers)
+4. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers)
    
 Learn how to extract structured data from raw LLM outputs using output parsers. This module covers:
 - Why output parsing is important
@@ -76,7 +91,7 @@ Learn how to extract structured data from raw LLM outputs using output parsers. 
 - How to convert free-form text into usable formats like JSON or lists
 > 🧪 Practical Parsing Examples
 > See how to use built-in parsers to format and structure model outputs effectively:
-> 📄 [Explore Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/03_Output%20Parsers#-module-03-output-parsers-in-langchain)
+> 📄 [Explore Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers#-module-03-output-parsers-in-langchain)
 
 
 ---

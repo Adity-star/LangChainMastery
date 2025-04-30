@@ -69,9 +69,9 @@ This will install LangChain and all the other necessary tools to help you get st
 ## 1.4 💻 Writing Your First LangChain Application
 Now, let’s jump into coding! We’ll start with a simple "Hello World" example. This application will interact with the OpenAI model and generate a response.
 ### Step 1: Explore the LangChain Intro Notebook
-Before jumping into the code, take a moment to explore the [LangChain Intro Notebook](https://github.com/Adity-star/LangChainMastery/blob/main/Intro/Langchain_intro.ipynb). This will help you understand the core concepts and components of LangChain, which will be useful as you proceed with your coding exercises.
+Before jumping into the code, take a moment to explore the [LangChain Intro Notebook](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/Langchain_intro.ipynb). This will help you understand the core concepts and components of LangChain, which will be useful as you proceed with your coding exercises.
 ### Step 2: Create a File Called `hello_world.py`
-Next, create a file named [`hello_world.py`](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/hello_world.py) and add the code to interact with the OpenAI model.
+Next, create a file named [`hello_world.py`](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/hello_world.py) and add the code to interact with the OpenAI model.
 You’ll see how easy it is to communicate with an LLM!
 
 ---
@@ -97,7 +97,7 @@ Want to take it a step further?
 Try building a chatbot using LangChain + Hugging Face.
 
 📝 **Code Example:**  
-[chatbot.py](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/chatbot.py)
+[chatbot.py](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/chatbot.py)
 
 
 ### 🧠 Enhance the Chatbot with Prompt Engineering
@@ -105,7 +105,7 @@ Try building a chatbot using LangChain + Hugging Face.
 Then, you improved your chatbot by crafting more effective prompts — demonstrating how prompt design can significantly impact LLM output.
 
 ✨ **Enhanced Code Example:**  
-[prompt.py](https://github.com/Adity-star/LangChainMastery/blob/main/01_Intro/prompt.py)
+[prompt.py](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/prompt.py)
 
 ---
 
@@ -134,4 +134,4 @@ You’ve learned how to set up LangChain and run your first application. 🎉
 Up next: Module 02 – Working with LLMs
 In the next module, we’ll dive deeper into LLMs (Large Language Models. You’ll learn how to use LLms in langchain.
 
-Ready to level up? 👉 [Go to Module 02: LLMs!](https://github.com/Adity-star/LangChainMastery/tree/main/02_LLMs)
+Ready to level up? 👉 [Go to Module 02: Models!](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models)

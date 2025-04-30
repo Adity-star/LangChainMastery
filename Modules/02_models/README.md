@@ -2,9 +2,9 @@
 
 Welcome to **Module 02** of the LangChain Mastery course! This module focuses on working with various types of models in LangChain, including:
 
-- 🔤 **LLMs** (Large Language Models)
-- 💬 **Chat Models**
-- 🧠 **Embedding Models**
+-  **LLMs** (Large Language Models)
+-  **Chat Models**
+-  **Embedding Models**
 You'll learn how to integrate these models with providers like **OpenAI**, **Hugging Face**, and **Cohere**, and how to use them effectively in LangChain workflows.
 ---
 

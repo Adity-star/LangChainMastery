@@ -66,7 +66,7 @@ Here’s a sample solution you can reference or build upon:
 
 Congratulations on getting hands-on with LangChain’s LLM interface! 🎉 Now that you’ve successfully built a text generator, you’re ready to tackle even more complex use cases with LangChain. 
 
-In the next module, we’ll dive deeper into **Prompts** for more powerful AI applications.
+In the next module, we’ll dive deeper into **ChatModels** for more powerful AI applications.
 
-Ready for more? Let’s go to [**Module 03: Prompts**!](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts)
+Ready for more? Let’s go to [**ChatModels**!](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models/ChatModels)
 

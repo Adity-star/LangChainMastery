@@ -196,6 +196,16 @@ Find duplicate or near-duplicate content by checking similarity between embeddin
 - Choose between cloud and local embedding options
 
 ---
+##  Task 2: Build an Intelligent Question-Answering Chatbot with Memory and Search
+Now that you've explored the core concepts behind **LLMs**, **Chat Models**, and **Embedding Models**, it's time to apply them in a real-world task.
+In this task, you'll build a **Question-Answering (QA) chatbot** that combines:
+-  **Conversation Memory** – to retain context across interactions.
+-  **Embeddings + Vector Search** – to retrieve relevant content from documents.
+-  **Chat Models** – to generate human-like responses using retrieved information.
+
+> 📘 **[Follow these Guidelines for more](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/02_models/02_Task.md)**
+
+---
 ### ⏭️ Next Step
 Now that you know how to embed and retrieve meaning, continue to Module 03 – Prompts and learn how to control model behavior using prompt engineering.
 

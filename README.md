@@ -22,8 +22,8 @@ LangChain is modular by design. These components can be combined in different wa
 | 03 | [Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts#-module-03-prompts) | Using prompting in LangChain effectively |
 | 04 | [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers#-module-04-output-parsers-in-langchain) | Parse and structure outputs from LLMs for better usability |
 | 05 | [Chains](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains) | Combine LLM calls into multi-step logic |
-| 06 | [Runnables](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/06_Runnables) | Build modular and composable components with LangChain's Runnable interfaces |
-| 07 | [Document Loaders](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/07_Document%20Loaders) | Load and process various types of documents for use in chains |
+| 06 | [Document Loaders](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/06_Document%20Loaders) | Build modular and composable components with LangChain's Runnable interfaces |
+| 07 | [Not Done yet](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/07_Document%20Loaders) | Load and process various types of documents for use in chains |
 | 08 | [Text Splitters](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Text%20Splitters) | Split large text into manageable chunks for better processing |
 | 09 | [Retrievers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/09_Retrivers) | Use embeddings and retrievers for semantic search and retrieval |
 | 10 | [Retrieval-Augmented Generation (RAG)](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG) | Combine retrieval with generation to answer queries from documents |
@@ -94,7 +94,7 @@ Learn how to design effective prompts for different tasks and control LLM behavi
 > - [Few Shot Prompt Templates](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/03_prompts/02_fewshot_prompt_template.ipynb)
 
 ---
-5. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers)
+4. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers)
    
 Learn how to extract structured data from raw LLM outputs using output parsers. This module covers:
 - Why output parsing is important
@@ -106,4 +106,13 @@ Learn how to extract structured data from raw LLM outputs using output parsers. 
 
 
 ---
+
+5. [🔗 Chains](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains#-module-04-chains-in-langchain)
+
+Chains let you build workflows by combining prompts, models, retrievers, and logic steps — allowing for more advanced LLM applications.
+
+This module covers:
+- How to structure multi-step workflows using LangChain’s `Chain` classes
+- Key patterns like `SequentialChain`, `ParallelChain`, `ConditionalChain`, and `RetrievalQA`
+- Using memory and external data with `ConversationalRetrievalChain`
 

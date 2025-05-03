@@ -17,10 +17,10 @@ LangChain is modular by design. These components can be combined in different wa
 
 | Module | Topic | Description |
 |--------|-------|-------------|
-| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/01_Intro) | What is LangChain, how it works, and how to set it up |
-| 02 | [Using Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models) | How to use OpenAI and Hugging Face models with LangChain |
-| 03 | [Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_Prompts) | Using prompting in LangChain effectively |
-| 04 | [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers) | Parse and structure outputs from LLMs for better usability |
+| 01 | [Introduction to LangChain](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/01_Intro#-module-01-introduction-to-langchain) | What is LangChain, how it works, and how to set it up |
+| 02 | [Using Models](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/02_models#-module-02-models) | How to use OpenAI and Hugging Face models with LangChain |
+| 03 | [Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts#-module-03-prompts) | Using prompting in LangChain effectively |
+| 04 | [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers#-module-04-output-parsers-in-langchain) | Parse and structure outputs from LLMs for better usability |
 | 05 | [Chains](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains) | Combine LLM calls into multi-step logic |
 | 06 | [Runnables](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/06_Runnables) | Build modular and composable components with LangChain's Runnable interfaces |
 | 07 | [Document Loaders](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/07_Document%20Loaders) | Load and process various types of documents for use in chains |
@@ -82,8 +82,19 @@ Convert text into high-dimensional vectors for tasks like:
 
 > 🔍 Power your retrievers with vector embeddings for smarter, context-aware applications.
 ---
+3. [📝 Prompts](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/03_prompts)
+Learn how to design effective prompts for different tasks and control LLM behavior. This section covers:
+- Basic prompt construction principles
+- Techniques to guide model outputs
+- How to optimize prompts for specific applications
+> ✨ Prompt Design Strategies
+> How to make LLMs respond to user inputs more effectively
+> Using different prompt patterns to influence model responses.
+> - [Prompt Templates](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/03_prompts/01_Prompt_Templates.ipynb)
+> - [Few Shot Prompt Templates](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/03_prompts/02_fewshot_prompt_template.ipynb)
 
-4. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers)
+---
+5. 🧾 [Output Parsers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/04_Output%20Parsers)
    
 Learn how to extract structured data from raw LLM outputs using output parsers. This module covers:
 - Why output parsing is important

@@ -107,20 +107,6 @@ Then, you improved your chatbot by crafting more effective prompts — demonstra
 ✨ **Enhanced Code Example:**  
 [prompt.py](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/01_Intro/prompt.py)
 
----
-
-## 1.6 📝 Your First Task: Customize Your Hello World
-Awesome job! Now that you’ve seen your first LangChain app in action, let’s make it your own!
-Task:
-1. Modify the prompt to ask the AI about something you’re interested in. For example, you can ask:
-
-   - “What is artificial intelligence?”
-
-   - “Tell me about LangChain.”
-
-   - “What’s the weather like in New York?”
-
-2. Run the script again and print the response.
 
 ---
 

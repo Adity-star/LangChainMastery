@@ -161,7 +161,7 @@ You’ve now learned how to use **Output Parsers** to structure and clean the ra
 
 In the next module, You’ll dive into the power of **chains** — combining multiple tools, steps, and models into coherent workflows to solve more complex tasks.
 
-Ready to dive deeper? Let's go to [**Module 04: Chains**](https://github.com/Adity-star/LangChainMastery/tree/main/04_Chains)
+Ready to dive deeper? Let's go to [**Module 04: Chains**](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains)
 
 
 

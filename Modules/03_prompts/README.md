@@ -17,7 +17,7 @@ Welcome to Module 03 of the LangChain Mastery course! In this module, you’ll e
 
 ### 📝 What Are Prompts?
 A Prompt is like a command you give to a language model to guide its behavior and generate a response. The goal of using prompts is to provide the model with clear instructions, context, and any relevant information needed to produce the best output. The beauty of LangChain is that it lets you build flexible and reusable prompt templates that can adapt to different scenarios.
-
+- [Basic Prompt Template(prompt_template.py)](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/03_prompts/prompt_template.py)
 ---
 
 ## 🧩 Prompt Templates

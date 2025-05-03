@@ -1,4 +1,4 @@
-# 🧾 Module 03: Output Parsers in LangChain
+# 🧾 Module 04: Output Parsers in LangChain
 
 Welcome to **Module 03** of the LangChain Mastery course! 🎉  
 In the last module, you worked with LLMs directly. Now, we’ll learn how to **structure and clean** their responses using one of LangChain’s most powerful features: **Output Parsers**.

@@ -24,9 +24,9 @@ LangChain is modular by design. These components can be combined in different wa
 | 05 | [Chains](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/05_Chains) | Build multi-step workflows by chaining LLM calls. |
 | 06 | [Document Loaders](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/06_Document%20Loaders) | Load and preprocess documents from various formats. |
 | 07 | [Text Splitters](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/07_Text%20Splitters#%EF%B8%8F-module-07-text-splitters-in-langchain) | Split large text into manageable chunks for processing. |
-| 08 | [Vector Stores & Retrievers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Vector%20Store#-module-08-vector-stores--retrievers-in-langchain) | Store embeddings and retrieve relevant documents using semantic search. |
-| 09 | [Retrieval-Augmented Generation (RAG)](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG) | Combine retrieval and generation to answer questions from documents. |
-| 10 | [Agents & Tools](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/09_Retrivers) | Use agents to choose tools or documents based on user input. |
+| 08 | [Vector Stores](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Vector%20Store#-module-08-vector-stores--retrievers-in-langchain) | Store embeddings and retrieve relevant documents using semantic search. |
+| 09 | [Retrievers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/09_Retrivers) | Combine retrieval and generation to answer questions from documents. |
+| 10 | [Rag](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG) | Use agents to choose tools or documents based on user input. |
 | 11 | [Final Projects](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/11_Projects) | Build real-world apps like chatbots, PDF Q&A bots, and AI assistants. |
 
 

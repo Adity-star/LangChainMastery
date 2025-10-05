@@ -7,6 +7,16 @@ Welcome to **LangChain Mastery** – a curated, hands-on repository to help you 
 [LangChain](https://www.langchain.com/) is a powerful framework designed to simplify the development of applications using large language models (LLMs). It provides tools to chain together components like models, memory, agents, tools, and data sources into powerful AI-driven applications.
 
 ---
+## 🔗 Related Projects
+Explore more of my work:
+
+-  [GenAI-Learnings](https://github.com/Adity-star/GenAI-Learnings): A deep dive into Generative AI concepts, tools, and projects.
+-  [MCP-YFinance-Server](https://github.com/Adity-star/mcp-yfinance-server): A backend service for financial analytics and modeling.
+-  [Reinforcement-Learning](https://github.com/Adity-star/Reinforcement-Learning): Hands-on experiments and theory in Reinforcement Learning.
+- [Complete Data Science](https://github.com/Adity-star/Complete-DataScience-Guide/tree/main): A deep dive into Data Science AI concepts, tools, and projects and all the material for learning and interview preparation.
+-  [CompleteRAG](https://github.com/Adity-star/CompleteRAG): End-to-end implementation of Retrieval-Augmented Generation (RAG) systems.
+
+---
 
 # ⚙️ LangChain Components
 
@@ -142,21 +152,32 @@ Key topics covered:
 > Improve retrieval, summarization, and Q&A with smart chunking.
 
 ---
-8. ⚡ [Vector Stores](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Vector%20Store) & [Retrievers](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/09_Retrivers)(
+8. ⚡ [Vector Stores](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/08_Vector%20Store#-module-08-vector-stores-in-langchain)
 
-Explore vector databases and retrievers that power semantic search and document retrieval workflows.
+Explore vector databases  that power semantic search and document retrieval workflows.
 
 Module highlights:
 - Embedding models and converting text to vectors  
 - Popular vector stores: FAISS, Pinecone, Weaviate, Milvus, Chroma  
-- Retrievers for filtering, batching, and query rewriting  
-- Advanced techniques like document compression and ensemble retrieval  
 
 > 🚀 Build scalable, fast semantic search applications  
 > Combine retrieval with LLMs for powerful question answering.
 
 ---
-9. 🔍 [Retrieval-Augmented Generation (RAG)](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG)
+9. 🔍 [Retrievers ](https://github.com/Adity-star/LangChainMastery/blob/main/Modules/09_Retrivers/README.md#-module-09-retrievers-in-langchain)
+
+Understand retrieval mechanisms with generation models to create knowledge-augmented applications.
+
+This module covers:
+- Integrating vector stores with generative LLMs  
+- RetrievalQA chains for context-aware answers  
+- Use cases like chatbots, summarizers, and research assistants  
+
+> 🎯 Generate answers grounded in relevant documents  
+> Enhance LLMs with up-to-date and accurate knowledge.
+
+---
+10. 🔍 [Retrieval-Augmented Generation (RAG)](https://github.com/Adity-star/LangChainMastery/tree/main/Modules/10_RAG)
 
 Understand how to combine retrieval mechanisms with generation models to create knowledge-augmented applications.
 

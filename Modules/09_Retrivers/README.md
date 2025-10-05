@@ -1,4 +1,4 @@
-# 📦 Module 09: Vector Stores & Retrievers in LangChain
+# 📦 Module 09: Retrievers in LangChain
 
 Welcome to **Module 08 – Vector Stores & Retrievers!**  
 This module covers two foundational components in LangChain’s ecosystem: Vector Stores (vector databases for semantic search) and Retrievers (interfaces to fetch relevant documents from vector stores). Together, they power Retrieval-Augmented Generation (RAG) workflows that enable large language models to access external knowledge efficiently.
